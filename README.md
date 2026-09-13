@@ -56,7 +56,4 @@ The computational model was executed and verified using:
 * **GAMS:** Version 24.1.2, build r40979
 * **Solver interface:** GAMS/CPLEX
 * **Operating system:** Microsoft Windows, 64-bit
-* **Model class:** Mixed-Integer Programming (MIP)
-* **Solver status:** Normal completion
-* **Model status:** Optimal
 
